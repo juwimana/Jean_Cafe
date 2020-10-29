@@ -1,0 +1,10 @@
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.Properties.Resources.resources
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.csproj.GenerateResource.Cache
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\bin\Debug\Jean_Cafe.exe.config
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\bin\Debug\Jean_Cafe.exe
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\bin\Debug\Jean_Cafe.pdb
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.exe
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.pdb
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.JeanCafe.resources
+C:\Users\jeanm\source\repos\Jean_Cafe\Jean_Cafe\obj\Debug\Jean_Cafe.csprojAssemblyReference.cache
